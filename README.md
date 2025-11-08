@@ -1,4 +1,4 @@
-## Algoruthmic Trading — Trend Strategy with Data-Driven Insights  
+## Algorithmic Trading — Trend Strategy with Data-Driven Insights  
 
 This project goes beyond visualization — it’s a full trading analytics pipeline built to **detect trends, test strategies, and quantify performance** using Apple’s historical stock data (2014–2020). It combines **technical indicators**, **signal generation**, and **backtesting** to explore how momentum-based rules can outperform or complement traditional *buy-and-hold* investing.  
 
